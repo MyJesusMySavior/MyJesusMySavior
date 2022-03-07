@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon B</h1>
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/WXZ6kjFt2sKXWbidAYFV2a"></iframe>
-
 <h3 align="center">A passionate Software Engineer in Test and Tutor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatguy&label=Profile%20views&color=0e75b6&style=flat" alt="greatguy" /> </p>
